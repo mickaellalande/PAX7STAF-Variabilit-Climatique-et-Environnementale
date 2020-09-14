@@ -4,6 +4,10 @@
 
 Mickaël LALANDE (mickael.lalande@univ-grenoble-alpes.fr) - Septembre 2020
 
+## Sujet et exemple de code
+- Sujet : [sujet.pdf](sujet.pdf)
+- Exemple de code : [cold_bias_HMA.ipynb](cold_bias_HMA.ipynb)
+
 ## Installation de Miniconda/Anaconda
 
 1. **Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html)**:
