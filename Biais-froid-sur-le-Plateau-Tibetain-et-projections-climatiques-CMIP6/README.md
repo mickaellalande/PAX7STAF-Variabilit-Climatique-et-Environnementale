@@ -54,7 +54,7 @@ conda activate my_env
 
 ## Installation de l'environnement de travail pour ce projet
 
-1. **Installation à partir d'un fichier** (dans le dossier [env](env))
+1. **Installation à partir d'un fichier** (dans le dossier [envs](envs))
 
 https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file
 
